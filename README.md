@@ -1,6 +1,6 @@
 # 🌟 Sports Inventory Database
 
-Welcome to the **Sports Inventory Database** repository! This project contains the SQL file to create and initialize a simple yet robust database for managing sports equipment, customer information, and sales transactions. It's perfect for learning SQL, experimenting with queries, or as a foundation for a larger application.
+Welcome to the **Sports Inventory Database** repository! This project contains the SQL file to create and initialize a simple yet robust database for managing sports equipment, customer information, and sales transactions. It's perfect for learning SQL, experimenting with queries, or as a foundation for a larger application. Pretty basic, yay!
 
 ---
 
