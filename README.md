@@ -28,7 +28,7 @@ This file contains all the SQL commands required to:
 1. **Download the File**  
    Clone this repository or download the `SportsInventoryDB.sql` file directly:
    ```bash
-   git clone https://github.com/yourusername/SportsInventoryDB.git
+   git clone https://github.com/salmanazamdev/SportsInventoryDB.git
 
 2. **Load in SQL Environment**
    - Open your preferred SQL client (e.g., MySQL Workbench, phpMyAdmin, or CLI).
